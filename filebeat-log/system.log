@@ -1,0 +1,115 @@
+
+
+Feb  7 00:14:17 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 00:30:16 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  7 00:30:17 Khangs-MacBook-Pro syslogd[332]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  7 00:46:00 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 01:03:23 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 01:20:13 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 01:37:24 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 01:57:53 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 02:14:02 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 02:29:52 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 02:47:21 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 03:02:54 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 03:20:04 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 03:36:17 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 03:54:11 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 04:10:13 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 04:26:09 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 04:52:10 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics1
+Feb  7 04:52:10 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics2
+Feb  7 05:09:43 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 05:24:53 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 05:41:07 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 00:46:00 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 01:03:23 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 01:20:13 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 01:37:24 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 01:57:53 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 02:14:02 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 02:29:52 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 02:47:21 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 03:02:54 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 03:20:04 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 03:36:17 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 03:54:11 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 04:10:13 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 04:26:09 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 04:52:10 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 05:09:43 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 05:24:53 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics1
+Feb  7 05:56:40 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 06:14:44 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 06:30:45 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 06:47:44 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 07:05:22 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 07:23:15 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 07:40:00 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 07:55:51 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 08:11:28 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 08:26:36 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 08:37:55 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 08:54:37 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 09:12:03 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 09:29:20 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 09:45:15 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 09:50:36 Khangs-MacBook-Pro awdd[448]: Diagnostics Report
+Feb  7 09:51:06 --- last message repeated 1 time ---
+Feb  7 09:58:01 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 10:01:54 Khangs-MacBook-Pro login[71567]: USER_PROCESS: 71567 ttys000
+Feb  7 10:06:01 Khangs-MacBook-Pro login[71567]: DEAD_PROCESS: 71567 ttys000
+Feb  7 10:06:32 Khangs-MacBook-Pro login[12558]: DEAD_PROCESS: 12558 ttys002
+Feb  7 10:06:52 Khangs-MacBook-Pro login[72460]: USER_PROCESS: 72460 ttys000
+Feb  7 10:07:16 Khangs-MacBook-Pro login[72460]: DEAD_PROCESS: 72460 ttys000
+Feb  7 10:07:19 Khangs-MacBook-Pro login[72917]: USER_PROCESS: 72917 ttys002
+Feb  7 10:07:24 Khangs-MacBook-Pro login[73269]: USER_PROCESS: 73269 ttys000
+Feb  7 10:08:24 Khangs-MacBook-Pro login[72917]: DEAD_PROCESS: 72917 ttys002
+Feb  7 10:08:24 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 10:09:34 Khangs-MacBook-Pro login[73885]: USER_PROCESS: 73885 ttys002
+Feb  7 10:19:09 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 10:32:15 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 10:42:17 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 10:53:44 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 11:07:00 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 11:18:17 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 11:31:02 Khangs-MacBook-Pro syslogd[332]: ASL Sender Statistics
+Feb  7 11:34:53 Khangs-MacBook-Pro login[73269]: DEAD_PROCESS: 73269 ttys000
